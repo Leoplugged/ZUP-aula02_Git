@@ -9,3 +9,5 @@ Propósito: conhecer GitHub. Concluir o Exercício 1 Individual.
 Revisão:
 1. Refazer receita.
 2. Fazer commit da aula em .pptx e dos enunciados da atividade.
+
+Concluído.
