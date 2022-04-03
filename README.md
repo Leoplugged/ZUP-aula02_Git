@@ -1,4 +1,7 @@
 # Aula 02 - Git e GitHub
 
-(Aula02) Configurar o Git, realizar o primeiro commit no repositório no curso da Zup.
-(Aula03) Segunda aula: Criar primeira branch e vários testes.
+Propósito: conhecer GitHub. Concluir o Exercício 1 Individual.
+
+1. Configurar o Git no terminal.
+2. Fazer a receita do bolo em txt. (spoiler: receita feita não é um bolo. :P)
+3. Realizar o primeiro commit no curso da ZUP no repositório pessoal.
