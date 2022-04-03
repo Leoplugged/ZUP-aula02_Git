@@ -1,0 +1,8 @@
+Exercício 1
+Individual
+1. Criar um repositório local na sua máquina;
+2. Criar um repositório remoto no GitHub;
+3. Dentro do seu repositório local criar um arquivo de receitas
+4. Subir esse arquivo de receitas para o seu repositório remoto
+
+(to be continued...)
